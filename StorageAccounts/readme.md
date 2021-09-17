@@ -295,4 +295,4 @@ The hierarchical namespace of the storage account (see parameter `enableHierarch
 
 ## Deploy to Azure
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fpowershellfunctionapp.azurewebsites.net%2Fapi%2FDeployToAzure%3Fazuredevopsorg%3Dhttps%3A%2F%2Fservicescode.visualstudio.com%26project%3Dinfra-as-code-source%26repo%3DComponents%26scopePath%3D%2FModules%2FARM%2FStorageAccounts%2Fdeploy.json%26reporeadtoken%3Dn6wyajxnnqdmpihyifxu43mgyx4lloaagxqxl4mjvgy4bimsmd3a)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)]()
