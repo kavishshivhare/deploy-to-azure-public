@@ -292,3 +292,8 @@ The hierarchical namespace of the storage account (see parameter `enableHierarch
 - [StorageAccountS/queueServiceS/queueS](https://docs.microsoft.com/en-us/azure/templates/Microsoft.Storage/2019-06-01/storageAccounts/queueServices/queues)
 - [Deployments](https://docs.microsoft.com/en-us/azure/templates/Microsoft.Resources/2020-06-01/deployments)
 - [StorageAccountS/tableServiceS/tableS](https://docs.microsoft.com/en-us/azure/templates/Microsoft.Storage/2019-06-01/storageAccounts/tableServices/tables)
+
+
+## Deploy To Azure
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkavishshivhare%2Fdeploy-to-azure-public%2Fmain%2FARM%2FStorageAccounts%2Fdeploy.json)
