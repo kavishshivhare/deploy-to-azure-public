@@ -239,3 +239,8 @@ To use Private Endpoint the following dependencies must be deployed:
 - [Vaults](https://docs.microsoft.com/en-us/azure/templates/Microsoft.KeyVault/2019-09-01/vaults/secrets)
 - [Vaults](https://docs.microsoft.com/en-us/azure/templates/Microsoft.KeyVault/2019-09-01/vaults/keys)
 - [Deployments](https://docs.microsoft.com/en-us/azure/templates/Microsoft.Resources/2020-06-01/deployments)
+
+
+## Deploy To Azure
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkavishshivhare%2Fdeploy-to-azure-public%2Fmain%2FARM%2FKeyVault%2Fdeploy.json)
